@@ -39,6 +39,3 @@ Artık proje çalışır olması lazım
 
 ➜  Local:   http://localhost:5173/
 ➜  Network: use --host to expose
-
-
-Bu proje MIT lisansı altında lisanslanmıştır.
