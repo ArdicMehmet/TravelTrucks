@@ -24,7 +24,7 @@ Travel Trucks, karavan kiralama hizmetleri sunan modern bir web uygulamasıdır.
 Projeyi yerel ortamınızda çalıştırmak için aşağıdaki adımları izleyin:
 
 1. Repoyu klonlayın:
-git clone https://github.com/kullaniciadi/travel-trucks.git
+https://github.com/ArdicMehmet/TravelTrucks.git
 cd travel-trucks
 
 2. Bağımlılıkları yükleyin:
