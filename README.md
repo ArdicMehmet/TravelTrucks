@@ -2,6 +2,8 @@
 
 Travel Trucks, karavan kiralama hizmetleri sunan modern bir web uygulamasıdır. Kullanıcılar çeşitli karavan modellerini inceleyebilir, filtreleyebilir ve rezervasyon yapabilirler.
 
+Canlı link : https://travel-trucks-three-sigma.vercel.app/
+
 ## Temel Özellikler
 
 - **Karavan Kataloğu**: Çeşitli karavan modellerini görüntüleme ve filtreleme
